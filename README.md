@@ -7,4 +7,4 @@ A small HTML/CSS project completed as part of a larger coding curriculum (The Od
 I used ChatGPT and Stable Diffusion to generate all text and images for this project.
 This allowed me to spend more of my time practicing HTML and CSS.
 
-![Fun Recipes Homepage](../odin-recipes/images/odin-recipes-preview.png)
+![Fun Recipes Homepage](images/odin-recipes-preview.png)
