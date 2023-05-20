@@ -2,8 +2,8 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 /*xs*/
@@ -49,11 +49,18 @@
 }
 
 * {
-  background: #F33F44;
+  background: #FF8297;
 }
 
-.main-page {
-  background: #ff8297
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+.website-intro {
+  text-align: left;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 .recipe-page {
@@ -65,11 +72,20 @@
   height: auto
 }
 
+.recipe-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 3rem;
+}
+
 .recipe-item {
   text-align: center;
+  transition: all 0.2s ease-out
+}
+
+.recipe-item img {
   width: 100%;
   height: auto;
-  transition: all 0.2s ease-out
 }
 
 .recipe-item:hover {
