@@ -67,11 +67,6 @@ h1 {
   background: #82c7ff;
 }
 
-.image {
-  max-width: 100%;
-  height: auto
-}
-
 .recipe-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -79,6 +74,9 @@ h1 {
 }
 
 .recipe-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   text-align: center;
   transition: all 0.2s ease-out
 }
@@ -86,6 +84,7 @@ h1 {
 .recipe-item img {
   width: 100%;
   height: auto;
+  align-self: end;
 }
 
 .recipe-item:hover {
