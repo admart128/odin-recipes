@@ -1,7 +1,10 @@
-# https://admart128.github.io/odin-recipes/
+# 👉 https://admart128.github.io/odin-recipes/
 
-A simple website completed as part of a free open source coding curriculum called "The Odin Project" (https://www.theodinproject.com/)
+A small HTML/CSS project completed as part of a larger coding curriculum (The Odin Project, https://www.theodinproject.com/).
 
-"It’s time to practice all of the HTML knowledge you have acquired. In this project, you are going to build a basic recipe website."
+"In this project, you are going to build a basic recipe website."
 
-The purpose of this project was just to learn the very basics of HTML.
+I used ChatGPT and Stable Diffusion to generate all text and images for this project.
+This allowed me to spend more of my time practicing HTML and CSS.
+
+![Fun Recipes Homepage](../odin-recipes/images/odin-recipes-preview.png)
