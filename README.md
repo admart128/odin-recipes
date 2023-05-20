@@ -1,4 +1,4 @@
-# 👉 https://admart128.github.io/odin-recipes/
+# 🔗 https://admart128.github.io/odin-recipes/
 
 A small HTML/CSS project completed as part of a larger coding curriculum (The Odin Project, https://www.theodinproject.com/).
 
